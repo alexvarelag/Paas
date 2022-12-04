@@ -9,4 +9,7 @@
 * Si registra un usuario, esta permitia poder ir al _Login_ y acceder con el usuario ya registrado.
 * Si el usuario es aceptado mostrara el _leading_ con el mensaje de `Examen Final ISW811 - Alex Varela González`.
 
-![Callenge](./img/Evidencia.jpg)
+![Callenge](./img/Evidencia1.jpg)
+
+## Commits
+![Callenge](./img/Evidencia2.jpg)
